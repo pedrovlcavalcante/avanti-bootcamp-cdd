@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+mpg,consumo do veículo em milhas por galão (mpg),quantitativa,continua
+cylinders,quantidade de cilindros do motor,quantitativa,discreta
+displacement,"cilindrada, capacidade em litros do motor",quantitativa,continua
+horsepower,potência gerada pelo motor em horsepower (hp),quantitativa,continua
+weight,peso total do veículo,quantitativa,discreta
+acceleration,aceleração,quantitativa,continua
+model_year,ano de fabricação do veículo de forma abreviada (19XX),quantitativa,discreta
+origin,sigla do país onde o veículo foi fabricado,qualitativa,nominal
+name,nome do veículo,qualitativa,nominal
